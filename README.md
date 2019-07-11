@@ -1,7 +1,7 @@
 # DSP19
 Jupyter Notebooks and material from the DSP19 course
 
-You must create an conda env this way
+You must create a conda env this way
 
 ```
 conda create --name envname python=3.6.2 jupyter
