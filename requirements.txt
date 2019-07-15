@@ -48,6 +48,7 @@ scipy==1.0.0
 seaborn==0.9.0
 Send2Trash==1.5.0
 six==1.12.0
+statsmodels==0.10.0
 style==1.1.0
 terminado==0.8.2
 testpath==0.4.2
