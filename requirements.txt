@@ -33,7 +33,7 @@ plotly==3.9.0
 prometheus-client==0.7.1
 ptyprocess==0.6.0
 pybiomart==0.2.0
-Pygments==2.4.2
+Pygments==2.7.4
 pyparsing==2.4.0
 python-dateutil==2.8.0
 pytz==2019.1
